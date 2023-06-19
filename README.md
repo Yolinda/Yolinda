@@ -7,3 +7,5 @@ What about the coding part...? Well considering that my husband is a software pr
 
 ## A look inside
 | 🌍 Located in | Windhoek, Namibia |
+
+| Command | Description |
