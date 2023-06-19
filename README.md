@@ -1,32 +1,9 @@
-# Hi 👋 my name is Yolinda
+# Hello World 👋
+I am a **Business Analyst** with a background in _software programming_ and a love for tech ... wait that's not fair. I ❤︎ a lot of things from anything tech to coming up with new concepts for applications or websites.
 
-I am a results-drive __Business Analyst__ and __Technical Writer__ with a background in software programming. I love *technology* and more so creating concepts for new features and functionality in tech used on a daily basis. 
+I've always liked writing - at first I was convinced that I want to become a fictional writer, but it turns out **technical writing** is more up my alley.
 
-During the past 15+ years I have worked on projects from various industries, and designed the User Interface of several applications focusing on the overall _user experience_.
+What about the coding part...? Well considering that my husband is a software programmer, programming will always remain close to my heart. While I started my programming career using PHP, I have recently learned Python and am dubbing it one of my favorite programming languages.
 
-### A bit about me
-* 🌍  I'm based in Windhoek, Namibia
-* 🚀  I'm currently working on [ACSCII NextGen](http://github.com/w3shivers/ascii-next-gen)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Technical writing
-
-### Programming languages
-<img src="https://img.shields.io/badge/python-blue.svg">
-<img src="https://img.shields.io/badge/html-blue.svg">
-<img src="https://img.shields.io/badge/css-blue.svg">
-<img src="https://img.shields.io/badge/php-blue.svg">
-<img src="https://img.shields.io/badge/javascript-blue.svg">
-
-### Applications
-I love **applications** and there is nothing in life that gets me more excited than learning to use a new application or tool. Below are some of the applications I have taught myself to use during my career.
-
-<img src="https://img.shields.io/badge/Sage-Pastel-blue.svg">
-<img src="https://img.shields.io/badge/axure-blue.svg">
-<img src="https://img.shields.io/badge/odoo-blue.svg">
-<img src="https://img.shields.io/badge/zoho-blue.svg">
-<img src="https://img.shields.io/badge/figma-blue.svg">
-<img src="https://img.shields.io/badge/Google-Workspace-blue.svg">
-<img src="https://img.shields.io/badge/Microsoft-Office-blue.svg">
-<img src="https://img.shields.io/badge/Adobe-CSuite-blue.svg">
-<img src="https://img.shields.io/badge/Visual-Code-blue.svg">
-<img src="https://img.shields.io/badge/WordPress-blue.svg">
+## A look inside
+| 🌍 Located in | Windhoek, Namibia |
