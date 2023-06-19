@@ -1,43 +1,32 @@
-Hi 👋 My name is Yolinda
-========================
+# Hi 👋 my name is Yolinda
 
-Business analyst & Technical writer
------------------------------------
+I am a results-drive __Business Analyst__ and __Technical Writer__ with a background in software programming. I love *technology* and more so creating concepts for new features and functionality in tech used on a daily basis. 
 
-I'm a results-driven Business Analyst & Technical Writer with more than 15 years experience in programming, conceptualization, operations, account management and cloud-based application development.
+During the past 15+ years I have worked on projects from various industries, and designed the User Interface of several applications focusing on the overall _user experience_.
 
+### A bit about me
 * 🌍  I'm based in Windhoek, Namibia
-* ✉️  You can contact me at [yolindavdl@gmail.com](mailto:yolindavdl@gmail.com)
 * 🚀  I'm currently working on [ACSCII NextGen](http://github.com/w3shivers/ascii-next-gen)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Technical writing
 
-### Skills
+### Programming languages
+<img src="https://img.shields.io/badge/python-blue.svg">
+<img src="https://img.shields.io/badge/html-blue.svg">
+<img src="https://img.shields.io/badge/css-blue.svg">
+<img src="https://img.shields.io/badge/php-blue.svg">
+<img src="https://img.shields.io/badge/javascript-blue.svg">
 
+### Applications
+I love **applications** and there is nothing in life that gets me more excited than learning to use a new application or tool. Below are some of the applications I have taught myself to use during my career.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-</p>
-
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Yolinda" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yolindavdl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/yolindavdl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-Test TWO / THREE
+<img src="https://img.shields.io/badge/Sage-Pastel-blue.svg">
+<img src="https://img.shields.io/badge/axure-blue.svg">
+<img src="https://img.shields.io/badge/odoo-blue.svg">
+<img src="https://img.shields.io/badge/zoho-blue.svg">
+<img src="https://img.shields.io/badge/figma-blue.svg">
+<img src="https://img.shields.io/badge/Google-Workspace-blue.svg">
+<img src="https://img.shields.io/badge/Microsoft-Office-blue.svg">
+<img src="https://img.shields.io/badge/Adobe-CSuite-blue.svg">
+<img src="https://img.shields.io/badge/Visual-Code-blue.svg">
+<img src="https://img.shields.io/badge/WordPress-blue.svg">
