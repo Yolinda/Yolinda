@@ -12,7 +12,9 @@ What about the coding part...? Well considering that my husband is a software pr
 - 🤝 Open to collaborating on the creation and formatting of 📖 _readme.md_ files
 
 ## Skills
-<img src="https://img.shields.io/badge/Code-PHP-blue.svg"> <img src="https://img.shields.io/badge/Code-CSS-orange.svg"> <img src="https://img.shields.io/badge/Code-HMLT-blue.svg">
+<img src="https://img.shields.io/badge/Code-PHP-blue.svg"> 
+<img src="https://img.shields.io/badge/Code-CSS-orange.svg"> 
+<img src="https://img.shields.io/badge/Code-HMLT-blue.svg">
 <img src="https://img.shields.io/badge/Code-Python-orange.svg">
 <img src="https://img.shields.io/badge/Application-Adobe%20C%20Suite-red.svg">
 <img src="https://img.shields.io/badge/CRM-Odoo-purple.svg">
