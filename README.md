@@ -1,4 +1,4 @@
-### 👋🏻 Hello World
+# 👋🏻 Hello World
 
 Welcome to my __Github__ profile, I'm glad you could stopped by.
 
@@ -43,7 +43,7 @@ I demonstrate the ability to excel in various roles and leverage skills gained i
   
 </table>
 
-### Work Experience
+## Work Experience
   
   | Job Position | Company | Place | Work Period |
   | :--- | :--- | :--- | :--- |
@@ -54,19 +54,15 @@ I demonstrate the ability to excel in various roles and leverage skills gained i
   | Web Developer | Intertech Progressive Software Solutions CC | Windhoek, Namibia | Feb 2006 - May 2008 |
   | Graphic Designer | Interact FCB | Windhoek, Namibia | Dec 2004 - Jan 2005 |
 
-  ### Education
+## Education
   
   - TESOL Certificate, Xplore Asia, Jan 2012
   - Project Management Certificate, Stellenbosch Business School, June 2011
   - Graphic Web Design, Prestige Academy, 2004
   - High School Diploma, Walvis Bay High School, 2003
 
-### Projects
+## Projects
   
   | Project | Client | Short description |
   | :--- | :--- | :--- |
   | one | two | three |
-
-### Support me
-
-<a href="https://www.buymeacoffee.com/yolindavdl"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
