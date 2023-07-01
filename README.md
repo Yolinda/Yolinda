@@ -6,6 +6,12 @@ I am an experienced profressional with a diverse background in **Graphic Design*
 
 I demonstrate the ability to excel in various roles and leverage skills gained in prior experiences to support effective problem solving and project execution.
 
+### A look inside
+- 🌍 Located in _Windhoek, Namibia_
+- 🚀 Currently working on _[ACSCII NextGen](http://github.com/w3shivers/ascii-next-gen)_ with 🧔 <a href="https://github.com/w3shivers" title="w3shivers">w3shivers</a>
+- 🧠 Learning more about <a href="https://www.python.org/" title="Python">Python</a>
+- 🤝 Open to collaborating on the creation and formatting of 📖 _readme.md_ files
+
 ## Development Language(s)
 <img src="https://img.shields.io/badge/PHP-510359?style=flat-square&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/HTML-bd4213?style=flat-square"> <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=darkgreen"> <img src="https://img.shields.io/badge/CSS-181670?style=flat-square"> <img src="https://img.shields.io/badge/MySQL-f08502?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/SQL-0428d9?style=flat-square"> <img src="https://img.shields.io/badge/JavaScript-806d05?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/Google%20Scripting-10144a?style=flat-square&logo=google&logoColor=white"> <img src="https://img.shields.io/badge/Jscon-2b2828?style=flat-square&logo=json&logoColor=white"> <img src="https://img.shields.io/badge/XML-fc6108?style=flat-square">
 
